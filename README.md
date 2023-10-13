@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases a website for a digital marketing and SEO services company for Horiseon. The website tries to provide information about the company's services and benefits in an engaging and visually appealing manner.
+This project showcases a website for a digital marketing and SEO services company for Horiseon. The website tries to provide information about the company's services and benefits in an engaging and visually appealing manner
 ## Features
 
 The Horiseon website includes the following features:
